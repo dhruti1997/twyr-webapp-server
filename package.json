@@ -144,7 +144,7 @@
 		"grunt-jsbeautifier": "*",
 		"grunt-mocha-istanbul": "*",
 		"grunt-mocha-test": "*",
-		"grunt-xmlstoke": "*",
+		"grunt-xmlstoke": ">=0.7.1",
 		"istanbul": "^1.1.0-alpha.1",
 		"jsdoc": "^3.5.0",
 		"load-grunt-tasks": "^4.0.0",
